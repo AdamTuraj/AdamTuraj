@@ -3,12 +3,15 @@
 #### I'm a Python developer who creates Discord bots and other things in my free time. Below are all of my projects.</h4>
 
 - My main projects are:
-  - [Server Knight](https://discord.com/oauth2/authorize?client_id=801424420605263902&permissions=8&scope=bot). A security bot in over 300 servers.
   - [Amari.py](https://github.com/TheF1ng3r/amari.py). An API wrapper for the Amari API.
   - Public [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) cogs
 
 - Im working on:
   - A website for a bot
+
+- My previous work is:
+  - [Server Knight](https://discord.com/oauth2/authorize?client_id=801424420605263902&permissions=8&scope=bot). A security bot in over 300 servers.
+  - Fish with Fingers. A deleted bot that was a currency and level bot.
 
 #### You can view my socials and other projects at [thef1ng3r.tech](https://thef1ng3r.tech)
 
