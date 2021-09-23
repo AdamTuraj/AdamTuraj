@@ -12,4 +12,6 @@
 
 #### You can view my socials and other projects at [thef1ng3r.tech](https://thef1ng3r.tech)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thef1ng3r&count_private=true&theme=chartreuse-dark)
+![TheF1ng3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=thef1ng3r&count_private=true&theme=chartreuse-dark)
+
+![TheF1ng3r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thef1ng3r&layout=compact&theme=chartreuse-dark)
