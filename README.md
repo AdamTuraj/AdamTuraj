@@ -17,4 +17,4 @@
 
 ![TheF1ng3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=thef1ng3r&count_private=true&theme=chartreuse-dark)
 
-![TheF1ng3r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thef1ng3r&layout=compact&theme=chartreuse-dark)
+![Metrics](https://metrics.lecoq.io/TheF1ng3r?template=classic&lines=1&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FToronto)
