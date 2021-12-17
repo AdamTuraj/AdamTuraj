@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm TheF1ng3r!</h1>
+<h1 align="center">Hey there, I'm Adam Turaj!</h1>
 
 #### I'm a Python developer who creates Discord bots and other things in my free time. Below are all of my projects.</h4>
 
