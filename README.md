@@ -1,20 +1,15 @@
-<h1 align="center">Hey there, I'm Adam Turaj!</h1>
+# Hey there, I'm Adam Turaj!
 
-#### I'm a Python developer who creates Discord bots and other things in my free time. Below are all of my projects.</h4>
+I am a self tought Python developer and am learning ReactJS, HTML, CSS and JavaScript. I create Discord bots using [discord.py](https://github.com/Rapptz/discord.py) and create websites! I do freelancing in my freetime creating Discord bots and websites for various types of clients.
 
-- My main projects are:
+You can see my work on [my website](https://adamturaj.com)!
 
-  [![Amari.py](https://github-readme-stats.vercel.app/api/pin/?username=thef1ng3r&repo=amari.py&show_owner=true&theme=dark)](https://github.com/thef1ng3r/amari.py)
-  
-  [![finger-cogs](https://github-readme-stats.vercel.app/api/pin/?username=thef1ng3r&repo=finger-cogs&show_owner=true&theme=dark)](https://github.com/thef1ng3r/finger-cogs)
-  
-  - [serverknight.xyz](https://serverknight.xyz) which is a [NodeJS](https://github.com/nodejs/node) website for the bot [Server Knight](https://serverknight.xyz/invite?ref=thef1ng3r_github).
+### Here are some of my Github and coding stats!
 
-- My previous work is:
-  - [Server Knight](https://serverknight.xyz/invite?ref=thef1ng3r_github) which is a security bot in over 300 servers.
-  - Fish with Fingers. This is a deleted bot that was a currency and level bot.
+---
 
-#### You can view my socials and other projects at [thef1ng3r.tech](https://thef1ng3r.tech)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![TheF1ng3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=thef1ng3r&count_private=true&theme=dark)
 
