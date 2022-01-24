@@ -9,6 +9,9 @@ You can see my work on [my website](https://adamturaj.com)!
 ---
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 ![TheF1ng3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=thef1ng3r&count_private=true&theme=dark)
