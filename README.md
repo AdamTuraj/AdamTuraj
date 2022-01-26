@@ -4,6 +4,8 @@ I am a self tought Python developer and am learning ReactJS, HTML, CSS and JavaS
 
 You can see my work on [my website](https://adamturaj.com)!
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/374147012599218176)](https://discord.com/users/374147012599218176)
+
 ### Here are some of my Github and coding stats!
 
 ---
