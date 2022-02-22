@@ -12,11 +12,11 @@ You can see my work on [my website](https://adamturaj.com)!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 24 mins  ██████████████████████░░░   87.78 % 
-CSS          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-TypeScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript   10 hrs 31 mins  ██████████████████████░░░   88.30 % 
+CSS          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Other        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 
