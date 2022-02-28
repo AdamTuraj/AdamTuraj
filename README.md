@@ -11,13 +11,15 @@ You can see my work on [my website](https://adamturaj.com)!
 ---
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   13 hrs 40 mins  █████████████████████▒░░░   85.95 % 
-Python       1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript   11 hrs 2 mins   █████████████████████░░░░   83.94 %
+Python       1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![TheF1ng3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=thef1ng3r&count_private=true&theme=dark)
