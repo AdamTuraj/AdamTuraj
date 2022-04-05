@@ -13,11 +13,11 @@ You can see my work on [my website](https://adamturaj.com)!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 5 mins    █████████████▓░░░░░░░░░░░   54.96 %
-YAML         1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-JavaScript   1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-JSON         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Other        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+TypeScript   6 hrs 37 mins   ███████████████▒░░░░░░░░░   60.86 %
+YAML         1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+JavaScript   1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+JSON         57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
