@@ -13,10 +13,9 @@ You can see my work on [my website](https://adamturaj.com)!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 22 mins   ███████████████████████▓░   94.93 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TypeScript   3 hrs 49 mins   ████████████████████████░   96.02 %
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
