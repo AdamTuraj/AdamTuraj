@@ -9,7 +9,9 @@ You can see my work on [my website](https://adamturaj.com)
 ### Here are some of my Github and coding stats!
 
 ---
-![My Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamt&theme=dark)
+### My Wakatime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamTuraj&count_private=true&theme=dark)
 
