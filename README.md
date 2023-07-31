@@ -11,6 +11,14 @@ You can see my work on [my website](https://adamturaj.com)
 ---
 ### My Wakatime Stats
 <!--START_SECTION:waka-->
+
+```txt
+C++          1 hr 6 mins     ████████████████████████▓   98.01 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
 <!--END_SECTION:waka-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamTuraj&count_private=true&theme=dark)
