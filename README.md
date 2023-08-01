@@ -13,10 +13,7 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 6 mins     ████████████████████████▓   98.01 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
