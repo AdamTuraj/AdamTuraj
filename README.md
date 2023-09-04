@@ -13,7 +13,9 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   0 secs          █████████████████████████   100.00 %
+TypeScript   15 mins         ████████████████████████▓   99.10 %
+Assembly     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
