@@ -13,7 +13,9 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   6 mins          █████████████████████▓░░░   87.03 %
+GDScript3    0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
