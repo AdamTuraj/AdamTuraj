@@ -13,9 +13,10 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 mins          █████████████████████▓░░░   87.03 %
-GDScript3    0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+GDScript3    21 mins         ██████████████████░░░░░░░   71.38 %
+JavaScript   8 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
