@@ -13,7 +13,9 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 mins          ██████████████████████▒░░   89.06 %
+XML          0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
