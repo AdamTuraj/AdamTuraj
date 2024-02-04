@@ -13,7 +13,8 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-INI   1 hr 4 mins     █████████████████████████   100.00 %
+INI     2 hrs 4 mins    ████████████████████████░   96.42 %
+Other   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
