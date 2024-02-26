@@ -13,7 +13,8 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 1 min      █████████████████████████   100.00 %
+Python   1 hr 1 min      ██████████████████████▒░░   89.98 %
+Other    6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
 ```
 
 <!--END_SECTION:waka-->
