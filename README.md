@@ -13,8 +13,7 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-Other    7 mins          ████████████████████████░   95.87 %
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Other   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
