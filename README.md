@@ -13,9 +13,9 @@ You can see my work on [my website](https://adamturaj.com)
 <!--START_SECTION:waka-->
 
 ```txt
-C++           1 hr 4 mins     █████████████████▓░░░░░░░   70.93 %
-JSON          26 mins         ███████▒░░░░░░░░░░░░░░░░░   28.97 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C++           1 hr 30 mins    ██████████████████▓░░░░░░   74.60 %
+JSON          30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
