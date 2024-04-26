@@ -1,6 +1,6 @@
 # Hey there, I'm Adam Turaj!
 
-I am a Frontend Next.JS developer. I used to create Discord bots using [discord.py](https://github.com/Rapptz/discord.py) and now create all sorts of websites.
+I am an enthusiastic robotics engineer creating a bunch of projects. I used to create Discord bots using [discord.py](https://github.com/Rapptz/discord.py) and all sorts of websites.
 
 You can see my work on [my website](https://adamturaj.com)
 
