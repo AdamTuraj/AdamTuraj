@@ -13,9 +13,10 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-C++       41 mins         ███████████████████████▓░   95.11 %
-Kconfig   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-C         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+C++       1 hr 38 mins    ████████████████████████▒   97.67 %
+Kconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+C         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
