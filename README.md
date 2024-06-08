@@ -13,11 +13,11 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-C++           7 hrs 54 mins   ███████████████████████▓░   94.70 %
-JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Python        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C++           9 hrs 25 mins   ████████████████████████░   95.60 %
+JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Python        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
