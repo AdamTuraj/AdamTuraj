@@ -13,11 +13,11 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 27 mins    ███████████▒░░░░░░░░░░░░░   45.67 %
-JavaScript   52 mins         ███████░░░░░░░░░░░░░░░░░░   27.60 %
-C            34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-TypeScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-INI          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+C++          1 hr 27 mins    ██████████▓░░░░░░░░░░░░░░   42.75 %
+JavaScript   52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+C            34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+TypeScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Python       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
