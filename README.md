@@ -13,11 +13,11 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 29 mins    ███████████████████▓░░░░░   78.60 %
-Git Config   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Python       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown     1 hr 45 mins    ████████████▒░░░░░░░░░░░░   49.03 %
+Text         34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+C++          23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Git Config   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
