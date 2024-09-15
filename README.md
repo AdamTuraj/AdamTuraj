@@ -13,8 +13,7 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          █████████████████▓░░░░░░░   70.27 %
-Other        0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.73 %
+Git Config   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
