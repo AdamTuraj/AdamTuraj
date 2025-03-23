@@ -13,7 +13,9 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   31 mins         ███████████████████████▓░   94.33 %
+Bash     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
