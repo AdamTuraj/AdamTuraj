@@ -13,9 +13,9 @@ You can see my work on [my website](https://adamturaj.com) (Rewrite in progress)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     26 mins         ███████████████████████░░   92.38 %
-Git Config   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown     33 mins         ███████████████████████▒░   93.98 %
+Git Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
