@@ -9,16 +9,7 @@ You can see my work on [my website](https://adamturaj.com)!
 ### Here are some of my Github and coding stats!
 
 ---
-### My Wakatime Stats
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamTuraj&count_private=true&theme=dark)
-
 ![My top Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamTuraj&layout=compact&count_private=true&theme=dark)
 
